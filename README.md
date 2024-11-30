@@ -1,5 +1,7 @@
 # ps_launcher
-Instant Powershell Scripts
+Instant Powershell Scripts.
+
+This is a simple productivity tool which may be useful for anyone. I built it for the purpose of quickly automating common tasks in my daily workflow. For example, I have a powershell script which checks out a specific release branch, resets my local database, and runs migrations. Instead of taking several minutes to setup work on a new branch it takes about 30 seconds and I can focus on other tasks in the meantime.
 
 Just middle click start menu to create, edit, or launch scripts. 
 
